@@ -1,0 +1,10 @@
+{
+    "/video": {
+        "target": "http://nickdesaulniers.github.io/netfix/demo/frag_bunny.mp4",
+        "secure": false,
+        "logLevel": "debug",
+        "pathRewrite": {
+            "^/video": ""
+          }
+    }
+}
